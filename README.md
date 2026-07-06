@@ -1,6 +1,6 @@
 # C-WGAN-GGP_for_2D_Gcode_Generation
 
-## Open and run in Terminal to install pytorch3d
+### Open and run in Terminal to install pytorch3d
 
 # 1) Remove old pytorch3d environment
 conda deactivate 2>/dev/null || true
