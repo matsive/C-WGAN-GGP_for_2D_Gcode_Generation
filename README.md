@@ -66,7 +66,7 @@ jupyter notebook
 
 1. CondaEnv_test.ipynb
 2. Dataset_Construction.ipynb
-3. Training AE code.ipynb (Make sure to change or fix configyaml)
+3. Training AE code.ipynb (Make sure to change or fix config.yaml)
 4. GAN TRAINING AMF.ipynb
 5. GAN Inference Gcode.ipynb
 6. Matrix 10 AMF.ipynb
