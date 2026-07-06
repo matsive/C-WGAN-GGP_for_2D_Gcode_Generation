@@ -1,5 +1,7 @@
 # C-WGAN-GGP_for_2D_Gcode_Generation
 
+C-WGAN-GGP stands for Conditional Wasserstein Generative Adversarial Network with Gaussian Noise and Gradient Penalty. The model employs Gaussian-distributed latent noise as the generator input while using the gradient penalty regularization proposed in WGAN-GP to stabilize adversarial training.
+
 ### Open and run in Terminal to install pytorch3d
 
 ### 1) Remove old pytorch3d environment
