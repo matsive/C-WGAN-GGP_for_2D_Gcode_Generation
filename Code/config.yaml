@@ -1,0 +1,16 @@
+device: cuda
+batch_size: 32
+
+# Paths (relative to your user home directory)
+data_dir: F:\JupyterWork\Testing GAN\CGAN V2 for AMF\DatasetRV1
+model_dir: F:\JupyterWork\Testing GAN\CGAN V2 for AMF\ModelAEV4
+output_folder: F:\JupyterWork\Testing GAN\CGAN V2 for AMF\OutputAEV4
+
+dataset: gcode_layers_V1.npy
+
+save_results: true
+load_ae: false
+
+# AE settings
+latent_size: 512
+ae_epoch: 2001
