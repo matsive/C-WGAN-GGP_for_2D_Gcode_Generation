@@ -1,3 +1,12 @@
+## Citation
+
+If you use this repository, please cite:
+
+```text
+Ali M, Gopu V, Liao Y, Liu S. Towards generative additive manufacturing: A conditional Wasserstein generative adversarial networks framework for layer-wise point generation and toolpath formation. Additive Manufacturing Frontiers. 2026 Mar 25:200333.
+```
+**Paper:** [View on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2950431726000407)
+
 # C-WGAN-GGP_for_2D_Gcode_Generation
 
 C-WGAN-GGP stands for Conditional Wasserstein Generative Adversarial Network with Gaussian Noise and Gradient Penalty. The model employs Gaussian-distributed latent noise as the generator input while using the gradient penalty regularization proposed in WGAN-GP to stabilize adversarial training.
