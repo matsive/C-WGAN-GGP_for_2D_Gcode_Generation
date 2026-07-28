@@ -2,7 +2,7 @@
 
 If you use this repository, please cite:
 
-```text
+```
 Ali M, Gopu V, Liao Y, Liu S. Towards generative additive manufacturing: A conditional Wasserstein generative adversarial networks framework for layer-wise point generation and toolpath formation. Additive Manufacturing Frontiers. 2026 Mar 25:200333.
 ```
 **Paper:** [Towards generative additive manufacturing: A conditional Wasserstein generative adversarial networks framework for layer-wise point generation and toolpath formation](https://www.sciencedirect.com/science/article/pii/S2950431726000407)
